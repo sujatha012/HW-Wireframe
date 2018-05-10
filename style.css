@@ -1,0 +1,121 @@
+/**
+ * HTML/CSS Activity
+ **/
+
+
+* {
+  box-sizing: border-box;
+  
+}
+
+
+
+body {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #777;
+  background: #777;
+  width : 960px;
+  margin: auto; 
+}
+
+
+
+header,nav, footer {
+  padding: 30px;
+  margin-bottom:10px;
+  clear: both;
+  color: #777;
+  background: #ebebeb;
+  text-align: center;
+}
+
+
+/* nav {
+    padding: 30px;
+    text-align: center;
+    
+    margin-bottom: 20px;
+    color: #777; 
+    background: #ebebeb;
+   
+} */
+
+
+section {
+    
+    width: 495px;
+    height: 275px;
+    padding-top: 40px;
+    text-align: center;
+    background: #ebebeb;
+    float: left;
+ 
+  }
+  
+
+
+  article {
+    
+    width: 475px;
+    height : 175px;
+    padding-top: 15px;
+    color:  #ebebeb;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+    background: #777;
+    
+  }
+  
+  
+  aside {
+  float: right;
+  width: 440px;
+  height : 275px;
+  padding: 20px;
+  margin-left: 10px;
+  text-align: center;
+  margin-bottom: 20px;
+  background: #ebebeb;
+  
+}
+
+h1{
+  color: #777; 
+  background: #ebebeb;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  padding:12px;
+}
+
+p{
+  color: #777; 
+  background: #ebebeb;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding:15px;
+} 
+
+
+/* #full {
+    width: 100%;
+    overflow: auto;
+    clear: both;
+    background: #eee;
+  } */
+
+
+
+/* footer {
+    padding: 20px;
+    clear: both;
+    background: #ebebeb;
+    text-align: center;
+  } */
